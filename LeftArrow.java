@@ -22,4 +22,9 @@ public class LeftArrow {
 	    }
 	}
 
-
+ // output 
+ //    *    
+ //   *      
+ // * * * * *
+ //   *      
+ //     *    
